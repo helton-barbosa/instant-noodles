@@ -1,1 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T12:45:22.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" version="20.3.6" etag="5wnTJn6thcsVOmwFWK9n" type="github"><diagram id="LWvcgTXyeXEA1UR0A4E6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-23T12:57:37.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="mhGMy69h5WhQKkA8vf2D" version="20.3.6" type="github">
+  <diagram id="LWvcgTXyeXEA1UR0A4E6" name="Page-1">
+    <mxGraphModel dx="781" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yzm5hRCNXIGkKkuwl_oF-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontFamily=Verdana;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="yzm5hRCNXIGkKkuwl_oF-1" target="yzm5hRCNXIGkKkuwl_oF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yzm5hRCNXIGkKkuwl_oF-1" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;INÍCIO&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yzm5hRCNXIGkKkuwl_oF-2" value="&lt;b&gt;&lt;font face=&quot;Verdana&quot;&gt;FIM&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Courier New;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="170" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yzm5hRCNXIGkKkuwl_oF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontFamily=Verdana;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="yzm5hRCNXIGkKkuwl_oF-3" target="yzm5hRCNXIGkKkuwl_oF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yzm5hRCNXIGkKkuwl_oF-3" value="&lt;font face=&quot;Verdana&quot;&gt;Colocar 2,80 litros de água potável em uma panela&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Courier New;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="180" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yzm5hRCNXIGkKkuwl_oF-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontFamily=Verdana;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="yzm5hRCNXIGkKkuwl_oF-4" target="yzm5hRCNXIGkKkuwl_oF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yzm5hRCNXIGkKkuwl_oF-4" value="&lt;font face=&quot;Verdana&quot;&gt;Colocar a panela no fogão e acender o fogo&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Courier New;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="180" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yzm5hRCNXIGkKkuwl_oF-5" value="&lt;font face=&quot;Verdana&quot;&gt;A água está fervendo?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Courier New;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yzm5hRCNXIGkKkuwl_oF-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontFamily=Verdana;fontColor=#46495D;fillColor=#B2C9AB;" edge="1" parent="1" source="yzm5hRCNXIGkKkuwl_oF-6" target="yzm5hRCNXIGkKkuwl_oF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yzm5hRCNXIGkKkuwl_oF-6" value="&lt;font face=&quot;Verdana&quot;&gt;Esperar até que a água comece a ferver&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontFamily=Courier New;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="180" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yzm5hRCNXIGkKkuwl_oF-7" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#788AA3;fontFamily=Verdana;fontColor=#46495D;fillColor=#B2C9AB;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yzm5hRCNXIGkKkuwl_oF-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="470" as="sourcePoint" />
+            <mxPoint x="240" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="410" />
+              <mxPoint x="100" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yzm5hRCNXIGkKkuwl_oF-12" value="Não" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="110" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
